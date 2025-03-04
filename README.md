@@ -2,9 +2,14 @@ The code and class definitions for the Medium article can be found in the WARN_L
 
 Follow these steps:
 
-1. Go to the notebook and select the 'Open in Colab' button
-2. Once the Colab environment is open and running, you can provide your Groq credentials in the **Secrets** side menu.  Provide the key as 'groq-secret' per the screenshot below.
-3. Run the first 2 cells in the notebook which should load and process all data
-4. The last cell will provide an analytic treemap view with plotly
-
+1. Go to the notebook and select the 'Open in Colab' button: ![colab](https://github.com/user-attachments/assets/9073a517-9ac6-48c3-bed2-469df4d4dcea)
    
+2. Once the Colab environment is open and running, you can provide your Groq credentials in the **Secrets** side menu.
+   Provide your API-key as 'groq-secret' per the screenshot below.
+   
+   <img width="335" alt="secret" src="https://github.com/user-attachments/assets/476d46cd-86fd-4cb7-9633-e1a8f1f8048d" />
+   
+3. Run the first 2 cells in the notebook which should load and process all data
+   
+4. The last cell will provide an analytic treemap view with plotly
+ ![Screenshot 2025-03-03 at 8 00 03 PM](https://github.com/user-attachments/assets/f8a34775-9381-469e-ac6b-8190ab876da8)
