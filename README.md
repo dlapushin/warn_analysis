@@ -1,4 +1,4 @@
-The code and class definitions for the Medium article ![article](https://medium.com/@dlapushin/warn-layoffs-deep-dive-a-study-in-llm-driven-data-enrichment-0c93db20caa5) can be found in the WARN_Layoffs_Data.ipynb notebook within this repo.
+The code and class definitions for the Medium article [linke](https://medium.com/@dlapushin/warn-layoffs-deep-dive-a-study-in-llm-driven-data-enrichment-0c93db20caa5) can be found in the WARN_Layoffs_Data.ipynb notebook within this repo.
 
 Follow these steps:
 
