@@ -2,7 +2,7 @@ The code and class definitions for the Medium article [link](https://medium.com/
 
 Follow these steps:
 
-1. Go to the notebook and select the 'Open in Colab' button: ![colab](https://github.com/user-attachments/assets/9073a517-9ac6-48c3-bed2-469df4d4dcea)
+1. Open the notebook file in this repo (WARN_Layoffs_Data.ipynb) and select the 'Open in Colab' button: ![colab](https://github.com/user-attachments/assets/9073a517-9ac6-48c3-bed2-469df4d4dcea) .
    
 2. Once the Colab environment is open and running, you can provide your Groq credentials in the **Secrets** side menu.
    Provide your API-key as 'groq-secret' per the screenshot below.
